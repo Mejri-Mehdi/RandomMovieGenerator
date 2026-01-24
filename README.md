@@ -45,4 +45,4 @@ A very simple and basic web application that generates a random movie suggestion
 ## 📄 License
 This project is open-source and free to use.
 
-If you want to use it visit this Link : 
+If you want to use it visit this Link : https://mejri-mehdi.github.io/RandomMovieGenerator/
