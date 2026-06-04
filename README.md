@@ -102,4 +102,4 @@ Enhance UI/UX with animations and a modern design
 📄 License
 This project is open‑source and free to use under the MIT License.
 
-<p align="center"> <sub>Made with 🎬 by <a href="https://github.com/Mejri-Mehdi">Mejri Mehdi</a></sub> </p>
+<p align="center"> <sub>Made with ❤️ by <a href="https://github.com/Mejri-Mehdi">Mejri Mehdi</a></sub> </p>
